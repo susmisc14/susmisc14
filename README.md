@@ -1,6 +1,10 @@
 # Hi there👋
 기억에 남는 UI를 그려내는  
 **프론트엔드 개발자 박지수**입니다.
+<br />
+- Blog: https://until.blog/@susmisc14
+- Linkedin: https://www.linkedin.com/in/susmisc14/
+- Email: su.smisc14@gmail.com
 
 ## 🛠️ Skills
 - Core: TypeScript, JavaScript, React
@@ -12,18 +16,6 @@
 - 애슐런컴퍼니 (2018.03 ~ 2024.07)
 - 더바오파트너스 (2013.03 ~ 2014.06)
 - 지뉴소프트 (2012.10 ~ 2013.02)
-
-<br />
-
------
-
-<br />
-
-<div align="center">
-
-[![Until 블로그 최신 글](https://ryc04otowj.execute-api.ap-northeast-2.amazonaws.com/blog-posts-svg?username=susmisc14)](https://until.blog/@susmisc14)
-
-</div>
 
 <!--
 **susmisc14/susmisc14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
